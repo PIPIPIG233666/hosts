@@ -9,6 +9,16 @@ eyu834.com
 l.hyenadata.com
 ck.juicyads.com
 
+# ublock
+malware-filter.pages.dev/urlhaus-filter-online.txt
+ublockorigin.github.io/uAssetsCDN/filters/unbreak.txt
+ublockorigin.pages.dev/filters/quick-fixes.txt
+ublockorigin.pages.dev/filters/privacy.min.txt
+cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/filters.min.txt
+cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/badware.txt
+cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/badlists.txt
+
+
 0.0.0.0.beeglivesex.com
 0.0.0.0.creative.hpyrdr.com
 0.0.0.0.hpyrdr.com

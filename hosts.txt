@@ -8,6 +8,7 @@
 eyu834.com
 l.hyenadata.com
 ck.juicyads.com
+roe.ero-labs.com
 
 # ublock
 malware-filter.pages.dev/urlhaus-filter-online.txt
